@@ -8,6 +8,9 @@ public class Testing123Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Testing123Application.class, args);
+
+
+		String m="hi pavan";
 	}
 
 }
