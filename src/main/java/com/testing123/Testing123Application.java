@@ -12,6 +12,7 @@ public class Testing123Application {
 		int a=10;
 		char l='m';
 		boolean isSub=true;
+		String k="no pavan";
 	}
 
 }
