@@ -10,7 +10,7 @@ public class Testing123Application {
 		SpringApplication.run(Testing123Application.class, args);
 
 		int a=10;
-		char l='m'
+		char l='m';
 		boolean isSub=true;
 	}
 
